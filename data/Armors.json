@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Escudo redondo","note":"","params":[0,0,0,10,0,0,0,0],"price":120},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Gorro de aventurero","note":"","params":[1,0,2,6,0,2,1,0],"price":120},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Tunica de tela","note":"","params":[0,0,2,12,0,1,6,0],"price":175},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo de ataque","note":"","params":[6,0,8,2,1,0,1,0],"price":300},
+{"id":5,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo de magia","note":"","params":[0,6,0,2,10,4,0,0],"price":300},
+{"id":6,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo de agilidad","note":"","params":[2,0,1,2,1,0,12,0],"price":300},
+{"id":7,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo de suerte","note":"","params":[0,0,2,0,2,0,4,16],"price":300},
+{"id":8,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo de defensa","note":"","params":[2,0,2,10,0,6,0,0],"price":300},
+{"id":9,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo supremo","note":"","params":[2,4,8,6,4,3,6,4],"price":450},
+{"id":10,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Gran escudo","note":"","params":[4,0,0,18,0,6,0,0],"price":250},
+{"id":11,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Escudo supremo","note":"","params":[6,0,2,24,0,10,0,0],"price":325},
+{"id":12,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Gorro de mago","note":"","params":[1,4,0,4,0,8,1,0],"price":150},
+{"id":13,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Casco de maya","note":"","params":[2,0,4,8,0,1,2,0],"price":175},
+{"id":14,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Casco de guerra","note":"","params":[2,0,8,10,0,4,2,0],"price":275},
+{"id":15,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Tunica de mago","note":"","params":[0,6,1,4,4,20,0,2],"price":325},
+{"id":16,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Armadura de maya","note":"","params":[2,0,4,22,0,2,12,0],"price":250},
+{"id":17,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armadura de metal","note":"","params":[4,0,6,35,0,0,2,0],"price":375}
+]
